@@ -1,0 +1,13 @@
+D:\WindowsFormsApplication23\BLL\bin\Debug\BLL.dll
+D:\WindowsFormsApplication23\BLL\bin\Debug\BLL.pdb
+D:\WindowsFormsApplication23\BLL\bin\Debug\DAL.dll
+D:\WindowsFormsApplication23\BLL\bin\Debug\DAL.pdb
+D:\WindowsFormsApplication23\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication23\BLL\obj\Debug\BLL.dll
+D:\WindowsFormsApplication23\BLL\obj\Debug\BLL.pdb
+D:\WindowsFormsApplication23\BLL\bin\Debug\mscorlib.dll
+D:\WindowsFormsApplication23\BLL\bin\Debug\normidna.nlp
+D:\WindowsFormsApplication23\BLL\bin\Debug\normnfc.nlp
+D:\WindowsFormsApplication23\BLL\bin\Debug\normnfd.nlp
+D:\WindowsFormsApplication23\BLL\bin\Debug\normnfkc.nlp
+D:\WindowsFormsApplication23\BLL\bin\Debug\normnfkd.nlp
